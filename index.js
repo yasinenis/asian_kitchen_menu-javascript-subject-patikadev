@@ -87,7 +87,8 @@ function listAll() {
     for (let i = 0; i < MENU.length; i++) {
 
         let createDOM = document.createElement("div");
-        createDOM.classList.add("col-6");
+        createDOM.classList.add("col-md-6");
+        createDOM.classList.add("col-sm-4");
         createDOM.classList.add("d-flex");
         createDOM.classList.add("mb-5");
         createDOM.innerHTML =
@@ -118,7 +119,8 @@ function listJapan() {
     for (let i = 0; i < japanMenu.length; i++) {
 
         let createDOM = document.createElement("div");
-        createDOM.classList.add("col-6");
+        createDOM.classList.add("col-md-6");
+        createDOM.classList.add("col-sm-4");
         createDOM.classList.add("d-flex");
         createDOM.classList.add("mb-5");
         createDOM.innerHTML =
@@ -141,7 +143,8 @@ function listKorea() {
     for (let i = 0; i < koreaMenu.length; i++) {
 
         let createDOM = document.createElement("div");
-        createDOM.classList.add("col-6");
+        createDOM.classList.add("col-md-6");
+        createDOM.classList.add("col-sm-4");
         createDOM.classList.add("d-flex");
         createDOM.classList.add("mb-5");
         createDOM.innerHTML =
@@ -164,7 +167,8 @@ function listChina() {
     for (let i = 0; i < chinaMenu.length; i++) {
 
         let createDOM = document.createElement("div");
-        createDOM.classList.add("col-6");
+        createDOM.classList.add("col-md-6");
+        createDOM.classList.add("col-sm-4");
         createDOM.classList.add("d-flex");
         createDOM.classList.add("mb-5");
         createDOM.innerHTML =

@@ -58,3 +58,8 @@ h4 {
     font-style: normal;
 }
 
+@media (max-width: 576px) {
+    .urun-info {
+        width: 60%;
+    }
+}
