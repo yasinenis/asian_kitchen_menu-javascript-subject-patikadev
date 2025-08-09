@@ -1,6 +1,8 @@
 # asian_kitchen_menu-javascript-subject-patikadev
 javascript subject patikadev
 
+[go to site](https://yasinenis.github.io/asian_kitchen_menu-javascript-subject-patikadev/)
+
 All Menu
 ---
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/be16683a-1814-4d81-b08f-63ce3a18e9d4" />
