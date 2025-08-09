@@ -63,3 +63,12 @@ h4 {
         width: 60%;
     }
 }
+
+.bg-me {
+    background-color: #f1f5f8;
+    margin-bottom: 200px;
+}
+
+.my-margin {
+    margin-top: 140px;
+}
